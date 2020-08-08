@@ -1,0 +1,65 @@
+.all{
+    background-color:LightGoldenRodYellow ;
+    margin: 20px 200px 20px 200px;
+    padding: 20px 100px 20px 100px;
+    
+  }
+  .outer{
+    width: 90%;
+    border: 5px solid ;
+    
+  }
+  .inner{
+    color:orange;
+    background-color:red;
+    width: calc(90% - 40px);
+  }
+  .box{
+    margin: 30px;
+    width: 10px;
+    height: 10px;
+    background-color: rebeccapurple;
+    transform: rotate(0.1turn)
+  }
+  
+  h2 {
+      font-size: 36px;
+      font-family: fantasy,"Trebuchet MS", Verdana;
+      font-weight: normal;
+      color: CornflowerBlue ;
+      font-style:normal;
+    
+    text-transform:uppercase;
+    text-decoration:line-through;
+    text-shadow: 2px 2px 3px LightGoldenRodYellow;
+    
+    text-align:center;
+    line-height: 1.5;
+    letter-spacing: 5px;
+    word-spacing:5px;
+    background-color:AliceBlue;
+    width:90%;
+    border: 0.5rem solid HoneyDew ;
+  }
+  h3{
+    color:CornflowerBlue ;
+    
+    font-weight: bold;
+    letter-spacing: 2px;
+    word-spacing:8px;
+  }
+  h4{
+    color:SkyBlue ;
+    letter-spacing: 2px;
+    word-spacing:8px;
+    font-family:cursive;
+  }
+  p {
+      color: black;
+    letter-spacing: 2px;
+    word-spacing:8px;
+    font-family:Georgia, serif;
+  }
+  span{
+    font-size:16px
+  }
